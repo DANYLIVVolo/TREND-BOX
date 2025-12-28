@@ -1,0 +1,81 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+}
+header{
+    background-color:#FF7904 ;
+}
+.button{
+    background-color: #FFA100;
+    text-decoration: None;
+    font-size:30px;
+    border-radius: 10px;
+    color:white;
+    padding: 10px;
+}
+.cosh{
+    background-color:rgb(217, 41, 17);
+    text-decoration: None;
+    font-size:30px;
+    border-radius: 10px;
+    color:white;
+    padding: 10px;
+}
+footer{
+    background-color: #834005;
+}
+.insta{
+    width: 50px;
+    height: 50px;
+}
+.instap{
+    color: white;
+}
+p{
+    text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.button:hover{
+    box-shadow:3px 5px 10px 0 black ;
+}
+.cosh:hover{
+    box-shadow:3px 5px 10px 0 black ;
+}
+h3{
+    text-align: center;
+}
+form{
+    text-align: center;
+}
+#name{
+    width: 350px;
+    height: 50px;
+    margin-bottom: 20px;
+    border:3px solid black;
+    font-size: 20px;
+}
+#tel{
+    width: 350px;
+    height: 50px;
+    margin-bottom: 20px;
+    border:3px solid black;
+    font-size: 20px;
+}
+#email{
+    width: 350px;
+    height: 50px;
+    margin-bottom: 20px;
+    border:3px solid black;
+    font-size: 20px;
+}
+#su{
+    margin: 25px;
+    padding: 10px;
+    font-size: 25px;
+}
